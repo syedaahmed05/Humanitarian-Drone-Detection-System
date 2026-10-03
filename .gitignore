@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -218,3 +219,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+# Python environments and generated files
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Dataset and model outputs
+/data/*
+!/data/.gitkeep
+/runs/*
+!/runs/.gitkeep
+>>>>>>> 7c909c0 (configured environment)
