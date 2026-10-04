@@ -234,4 +234,4 @@ __pycache__/
 !/data/.gitkeep
 /runs/*
 !/runs/.gitkeep
-/models/*.pt
+!/models/*.pt
