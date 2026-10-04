@@ -8,7 +8,7 @@ from google import genai
 from google.genai import types
 from ultralytics import YOLO
 
-st.set_page_config(page_title="Humanitarian Drone Detection System", layout="wide")
+st.set_page_config(page_title="Laila", layout="wide")
 
 load_dotenv()
 client = ElevenLabs(api_key=os.environ["ELEVENLABS_API_KEY"])
