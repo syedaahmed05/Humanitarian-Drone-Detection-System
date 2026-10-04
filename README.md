@@ -1,4 +1,4 @@
-# FindMe
+# Laila
 Hack Dearborn 5 Project where an AI system is developed to find people in crises such as earthquakes, floods, etc. 
 
 AI-assisted search and rescue support for crises such as earthquakes and floods.
