@@ -26,7 +26,7 @@ def load_model():
 
 model = load_model()
 
-st.title("Humanitarian Drone Detection System")
+st.title("Laila")
 st.caption("Search and rescue support for crisis response.")
 
 
