@@ -219,10 +219,10 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 # Python environments and generated files
-venv/
-.venv/
-__pycache__/
-*.py[cod]
+!venv/
+!.venv/
+!__pycache__/
+!*.py[cod]
 
 # Local secrets
 .env
